@@ -1,11 +1,9 @@
-👋 Hi, I’m Muditya Raghav (@Mudityadev)
+# 👋 Hi, I’m Muditya Raghav (@Mudityadev)
 
-🧑🏻‍💻 Work Domains:
+## 🧑🏻‍💻 Work Domains:
+- **Real-Time Systems:** Using WebRTC, React, TypeScript
+- **Low Latency Systems:** Using C++
 
-Real-Time Systems using webRTC, React, TypeScript
-
-Low Latency Systems using C++
-
-📫 How to reach me:
-📧 Email: mudityadev@gmail.com
-🐦 Twitter: @Mudityadev
+## 📫 How to reach me:
+- 📧 Email: [mudityadev@gmail.com](mailto:mudityadev@gmail.com)
+- 🐦 Twitter: [@Mudityadev](https://twitter.com/Mudityadev)
