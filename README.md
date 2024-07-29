@@ -7,3 +7,4 @@
 ## 📫 How to reach me:
 - 📧 Email: [mudityadev@gmail.com](mailto:mudityadev@gmail.com)
 - 🐦 Twitter: [@Mudityadev](https://twitter.com/Mudityadev)
+- 📄 [Resume](https://mega.nz/file/Bb8mkIaI#mvLavgJ7DoyXmdGtU1BKQXFEgGzYsrwB6UZXsbvriGc)
