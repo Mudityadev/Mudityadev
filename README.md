@@ -1,12 +1,9 @@
-- 👋 Hi, I’m @Mudityadev
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+👋 Hi, I’m Muditya Raghav (@Mudityadev)
 
-<!---
-Mudityadev/Mudityadev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🧑🏻‍💻 Work Domains:
+Real-Time Systems using webRTC, React, TypeScript
+Low Latency Systems using C++
+
+📫 How to reach me:
+📧 Email: mudityadev@gmail.com
+🐦 Twitter: @Mudityadev
