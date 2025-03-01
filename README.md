@@ -2,8 +2,7 @@
 
 ## 🧑🏻‍💻 Work Domains:
 - **Real-Time Web Applications:** Using NextJS, TypeScript, AI APIs
-- **Low Latency Video & Audio Systems:** Using WebRTC,  Real-Time Messaging Protocol
-
+  
 ## 📫 How to reach me:
 - 📧 Email: [mudityadev@gmail.com](mailto:mudityadev@gmail.com)
 - 🐦 Twitter: [@Mudityadev](https://twitter.com/Mudityadev)
