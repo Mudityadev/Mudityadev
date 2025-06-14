@@ -3,7 +3,7 @@
 ## 🧑🏻‍💻 Work Domains:
 - **Introduction:** Freelance QA/NextJS | Open to Projects | Email : Mudityadev@gmail.com | Twitter : [@Mudityadev](https://twitter.com/Mudityadev)
 - **Real-Time Web Applications:** Using NextJS, TypeScript, AI APIs
-- 
+
 
   
 ## 📫 How to reach me:
